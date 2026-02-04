@@ -1,3 +1,11 @@
+# Changelog
+
+## 2026-02-04 10:51 - Composer Security Update (Automated)
+
+- Security vulnerabilities opgelost via composer update --with-all-dependencies
+- Run composer show --locked voor volledige package lijst
+- Composer audit: Geen openstaande kwetsbaarheden meer
+
 ## Version 1.43.1
 > 11 October, 2024
 
